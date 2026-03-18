@@ -1,0 +1,7 @@
+variant,reduction,best_acc,n_params
+baseline,16,79.13,23705252
+channel,16,80.09,26236244
+spatial,16,79.42,23706820
+cbam,16,80.73,26237812
+cbam_r8,8,80.76,28753700
+cbam_r32,32,79.97,24979868

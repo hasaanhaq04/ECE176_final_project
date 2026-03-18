@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# CIFAR-100 dataset (auto-downloaded at runtime)
+data/cifar-100-python/
+data/cifar-100-python.tar.gz
+
+# Model checkpoints (large binary files)
+checkpoints/*.pth
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE / AI local settings
+.claude/
+.cursor/
+.cursorignore
+.cursorindexingignore
+AGENTS.md
+
+# Project reports and docs (kept locally)
+Project_Report_ECE_176/
+Project_Proposal___ECE_176.pdf
+Project_Report___ECE_176.pdf
+report.tex
+
+# Environment setup
+setup_env.bat
+requirements.txt
+
+# Compressed archives
+*.zip
