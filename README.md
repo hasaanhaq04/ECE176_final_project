@@ -1,3 +1,6 @@
+Link to Video: https://drive.google.com/file/d/1fSp65D0degx0lnkCBd5HcfpoKUZshgoS/view?usp=sharing
+
+
 # ResNet-50 with CBAM Attention on CIFAR-100
 
 ECE 176 Final Project — Investigating the effect of [CBAM (Convolutional Block Attention Module)](https://arxiv.org/abs/1807.06521) on image classification using CIFAR-100.
